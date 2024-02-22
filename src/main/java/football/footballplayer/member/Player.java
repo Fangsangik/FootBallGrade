@@ -1,5 +1,6 @@
 package football.footballplayer.member;
 
+import football.footballplayer.distance.Distance;
 import football.footballplayer.type.Action;
 import football.footballplayer.type.Position;
 
